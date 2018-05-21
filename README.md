@@ -1,6 +1,7 @@
 # AngularRouting
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+Read more about [Routing](https://angular.io/guide/router)
 
 ## Development server
 
